@@ -1,0 +1,42 @@
+a {
+    font-size:20px;
+    text-decoration: none;
+    margin: 50px 30px;
+    display:inline-block;
+    background-color: #59cae3;
+    color: white;
+    padding:10px 20px;
+    box-shadow:1px 3px 0px #56186a;
+    }
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    box-shadow:0.5px 1.5px 0px #56186a;
+}
+
+a:active {
+    box-shadow: none;
+}
+
+/*a:link {
+    color: crimson;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: darkcyan;
+    color: darkgreen;
+}
+
+a:active {
+    text-decoration: underline;
+    background-color: darkred;
+    color: darkturquoise;
+}
+
+a:visited {
+    color: black;
+}*/

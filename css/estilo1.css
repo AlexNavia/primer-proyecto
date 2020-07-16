@@ -1,0 +1,58 @@
+body {
+    background:url(../imagenes/fondo1.png);
+    color: black;
+}
+
+h1 {
+    color: crimson;
+    font-size:40px;
+}
+
+p a {
+    color: darkgreen;
+}
+
+li {
+    color: darkgreen;
+}
+
+nav a {
+    color: black;
+    background-color: burlywood;
+}
+
+.red {
+    color: maroon;
+}
+
+a[href="https://www.123ajedrez.com/reglas-basicas/enroque"]{
+    color: mediumspringgreen;
+}
+
+.a {
+    background-color: slategray;
+    color: black;
+    font-size:16px;
+    width:20%;
+    margin:100px;
+    display:inline-block;
+}
+
+
+.aa {
+    background-color: lightskyblue;
+    color: black;
+    font-size: 16px;
+    width: 20%;
+    margin:100px;
+    display:inline-block;
+}
+
+.aaa {
+    background:url(../imagenes/fondo2.jpg);
+    color: black;
+    font-size: 16px;
+    width: 50%;
+    margin:100px;
+}
+
